@@ -53,6 +53,14 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+.fb{
+  background-image: url(./../icons/alpha-f-box.png);
+
+}
+.google{
+  background-image: url(./../icons/google.png);
+
+}
 .twitter{
   background-image: url(./../icons/twitter.png);
 }
