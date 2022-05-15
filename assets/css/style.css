@@ -57,7 +57,8 @@
 
 .btn{
     max-width: 40%;
-    /* border-radius: 15%; */
+    border: 1px solid grey;
+    border-radius: 5%;
     font-size: 0.85em;
    
 }
